@@ -1,0 +1,8 @@
+*.exe
+*.out
+*.o
+*.log
+nums.txt
+in.txt
+out.txt
+records.txt
